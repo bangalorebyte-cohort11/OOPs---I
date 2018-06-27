@@ -1,12 +1,12 @@
 # OOPs---I
 Classes and Methods
 
-Learning Resources:
+**Learning Resources:**
 
 - Think Python Chapters 15,16,17 
 - Core Python (Chapter 13 until but not including section 13.11)
 
-Exercices:
+**Exercices:**
 
 1) Implement the __sub__, __mul__ and __truediv__  for the Fraction Class
 
